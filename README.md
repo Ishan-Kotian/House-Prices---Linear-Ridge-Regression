@@ -1,1 +1,1 @@
-# House-Prices---Linear-Ridge-Regression
+# House-Prices-Linear-Ridge-Regression
